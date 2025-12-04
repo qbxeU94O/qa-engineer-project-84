@@ -98,17 +98,17 @@
     bugs/bugapaptation-4.png
     bugs/bugadaptation-5.png
 
--summary: |
+- summary: |
 Нет отображения британского флага напротив выбранного языка
-environment: |
+  environment: |
   Google Chrome 137.0.7151.122 (Официальная сборка) (64 бит)
   OS Windows 11 pro 24H2
-steps-to-reproduce: |
+  steps-to-reproduce: |
   Перейти на главную страницу https://hexlet-products-store.vercel.app
   Зайти во вкладку "Язык" в навигационном меню
-expected-result: |
+  expected-result: |
   Во вкладке "Язык" отображается британский флаг, соответствующий английскому языку
-actual-result: |
+  actual-result: |
   Отсутствует изображение британского флага рядом с кнопкой переключения на английский язык
 
 - summary: |
