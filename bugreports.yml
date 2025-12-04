@@ -126,10 +126,10 @@
 
 - summary: |
   Не работает кнопка закрытия модального окна оформления заказа
-environment: |
-  Google Chrome 137.0.7151.122 (Официальная сборка) (64 бит)
-  OS Windows 11 pro 24H2
-steps-to-reproduce: |
+  environment: |
+    Google Chrome 137.0.7151.122 (Официальная сборка) (64 бит)
+    OS Windows 11 pro 24H2
+  steps-to-reproduce: |
   Перейти на главную страницу https://hexlet-products-store.vercel.app
   Добавить любой товар из каталога в корзину
   Перейти в корзину
